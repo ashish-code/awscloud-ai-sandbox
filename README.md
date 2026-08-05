@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="docs/banner.svg" alt="AWS Cloud AI Sandbox — end-to-end ML systems on AWS with SageMaker, Terraform, and AWS CDK" width="100%">
+</div>
 # AWS Cloud AI Sandbox
 
 [![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
