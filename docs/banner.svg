@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1120"/><stop offset="1" stop-color="#111C33"/></linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.45" r="0.5"><stop offset="0" stop-color="#F59E0B" stop-opacity="0.28"/><stop offset="1" stop-color="#F59E0B" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#glow)"/>
+  <rect x="1.5" y="1.5" width="1197" height="297" rx="15" fill="none" stroke="#F59E0B" stroke-opacity="0.22"/>
+  <rect x="64" y="70" width="4" height="150" rx="2" fill="#F59E0B"/>
+  <text x="88" y="86" fill="#F59E0B" font-size="15" font-weight="700" letter-spacing="3">PRODUCTION MLOPS · INFRASTRUCTURE-AS-CODE</text>
+  <text x="86" y="150" fill="#F4F7FB" font-size="46" font-weight="800" letter-spacing="0.5">AWS Cloud AI Sandbox</text>
+  <text x="88" y="192" fill="#9AA7BD" font-size="21">End-to-end ML systems on AWS — SageMaker training,</text><text x="88" y="219" fill="#9AA7BD" font-size="21">containerized endpoints, Terraform + CDK provisioning.</text>
+  <g font-size="15" font-weight="600" fill="#C7D2E4"><g><rect x="88" y="244" width="102" height="30" rx="15" fill="#18233A" stroke="#F59E0B" stroke-opacity="0.45"/><text x="139" y="264" text-anchor="middle">SageMaker</text></g><g><rect x="200" y="244" width="102" height="30" rx="15" fill="#18233A" stroke="#F59E0B" stroke-opacity="0.45"/><text x="251" y="264" text-anchor="middle">Terraform</text></g><g><rect x="312" y="244" width="85" height="30" rx="15" fill="#18233A" stroke="#F59E0B" stroke-opacity="0.45"/><text x="354.5" y="264" text-anchor="middle">AWS CDK</text></g><g><rect x="407" y="244" width="77" height="30" rx="15" fill="#18233A" stroke="#F59E0B" stroke-opacity="0.45"/><text x="445.5" y="264" text-anchor="middle">Lambda</text></g><g><rect x="494" y="244" width="53" height="30" rx="15" fill="#18233A" stroke="#F59E0B" stroke-opacity="0.45"/><text x="520.5" y="264" text-anchor="middle">ECR</text></g></g>
+  <g stroke-linecap="round">
+      <rect x="840" y="108" width="300" height="84" rx="10" fill="none" stroke="#F59E0B" stroke-width="1.3" stroke-dasharray="6 5" stroke-opacity="0.45"/>
+      <g><ellipse cx="874" cy="136" rx="18" ry="6" fill="#1a2340" stroke="#F59E0B" stroke-width="1.8"/><path d="M856,136 V162" stroke="#F59E0B" stroke-width="1.8"/><path d="M892,136 V162" stroke="#F59E0B" stroke-width="1.8"/><ellipse cx="874" cy="162" rx="18" ry="6" fill="#1a2340" stroke="#F59E0B" stroke-width="1.8"/><ellipse cx="874" cy="149" rx="18" ry="6" fill="none" stroke="#F59E0B" stroke-width="1.2" stroke-opacity="0.6"/></g>
+      <path d="M912,150 H932" stroke="#F59E0B" stroke-width="2"/><path d="M932,150 l-8,-5 l0,10 Z" fill="#F59E0B"/>
+      <circle cx="948" cy="150" r="13" fill="#1a2340" stroke="#F59E0B" stroke-width="2"/><circle cx="948" cy="150" r="5" fill="none" stroke="#F59E0B" stroke-width="1.6"/><g stroke="#F59E0B" stroke-width="2"><path d="M961.0,150.0 L967.0,150.0"/><path d="M957.2,159.2 L961.4,163.4"/><path d="M948.0,163.0 L948.0,169.0"/><path d="M938.8,159.2 L934.6,163.4"/><path d="M935.0,150.0 L929.0,150.0"/><path d="M938.8,140.8 L934.6,136.6"/><path d="M948.0,137.0 L948.0,131.0"/><path d="M957.2,140.8 L961.4,136.6"/></g>
+      <path d="M970,150 H992" stroke="#F59E0B" stroke-width="2"/><path d="M992,150 l-8,-5 l0,10 Z" fill="#F59E0B"/>
+      <g fill="#141d33" stroke="#F59E0B" stroke-width="1.8"><rect x="998" y="126" width="40" height="16" rx="2"/><rect x="998" y="146" width="40" height="16" rx="2"/><rect x="998" y="166" width="40" height="16" rx="2"/></g>
+      <path d="M1044,150 H1066" stroke="#F59E0B" stroke-width="2"/><path d="M1066,150 l-8,-5 l0,10 Z" fill="#F59E0B"/>
+      <path d="M1104,128 a26,26 0 1,0 0,44 h-2 a18,18 0 1,1 0,-44 Z" fill="#1a2340" stroke="#F59E0B" stroke-width="2"/>
+      <path d="M1090,150 h22" stroke="#F59E0B" stroke-width="2"/><path d="M1112,150 l-7,-4 l0,8 Z" fill="#F59E0B"/>
+    </g>
+</svg>
